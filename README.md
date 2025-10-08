@@ -1,5 +1,5 @@
 # mycode
 
-##Run
-'''bash
+## Run
+```bash
 python filename.py
